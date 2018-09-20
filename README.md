@@ -1,1 +1,1 @@
-# String-API
+# StringAPI
